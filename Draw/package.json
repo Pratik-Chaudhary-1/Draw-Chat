@@ -1,5 +1,5 @@
 {
-  "name": "@latest",
+  "name": "Draw",
   "private": true,
   "scripts": {
     "build": "turbo run build",
