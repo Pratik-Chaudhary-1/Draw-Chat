@@ -12,6 +12,10 @@
   "author": "",
   "license": "ISC",
   "description": "",
+  "devDependencies": {
+    "@repo/backend-common": "workspace: *",
+    "@repo/common": "workspace: *"
+  },
   "dependencies": {
     "@repo/typescript-config": "workspace: *",
     "@types/express": "^5.0.3",
